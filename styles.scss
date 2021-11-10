@@ -11,6 +11,7 @@ $text-color: #3f4042;
 .container {
   max-width: 1320px;
   margin: auto;
+  overflow: hidden;
 }
 header {
   height: 146px;
@@ -113,6 +114,7 @@ header {
     left: 50%;
     top: -186px;
     animation: 33s aGrape 5s infinite;
+   
   }
 }
 @keyframes aGrape {
