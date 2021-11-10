@@ -10,6 +10,7 @@
 
 .container {
   max-width: 1320px;
+  padding-bottom: 90px;
   margin: auto;
   overflow: hidden;
 }
@@ -62,7 +63,7 @@ header .nav_links .nav_links-block li a:active, header .nav_links .nav_links-blo
   margin-top: 40px;
   padding: 81px 0px 30px 120px;
   position: relative;
-  box-shadow: 0 80px 40px -20px #c08d5d7a;
+  box-shadow: 0 80px 40px -40px #c08d5d7a;
 }
 
 .main .banner {
